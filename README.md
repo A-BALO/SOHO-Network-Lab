@@ -100,5 +100,5 @@ The following tests were successfully completed:
 
 
 
-![SOHO Network Topology](<img width="1783" height="797" alt="image" src="https://github.com/user-attachments/assets/4c6faf4d-fbe5-42d1-a9b8-5f8effd222f0" />
+![SOHO Network Topology](<img width="1826" height="775" alt="Soho Network Topology" src="https://github.com/user-attachments/assets/4f609716-d540-4cf8-be8d-4ca0245202d0" />
 )
