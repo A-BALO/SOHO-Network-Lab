@@ -97,6 +97,7 @@ The following tests were successfully completed:
 - Implement network security best practices
 
 ## Project Screenshot
+<img width="1826" height="775" alt="image" src="https://github.com/user-attachments/assets/2aa106ca-3f5c-416a-bcd7-21edd9b5b015" />
 
 
 
